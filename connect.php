@@ -1,5 +1,4 @@
 <?php
-
 $host = 'localhost';
 $dbname = 'signup_login';
 $user = 'root';

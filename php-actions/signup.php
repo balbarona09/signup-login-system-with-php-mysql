@@ -1,5 +1,4 @@
 <?php
-
 require_once 'connect.php';
 $message = '';
 if(!empty($_POST['signup'])) {
